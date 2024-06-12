@@ -1,0 +1,49 @@
+@media screen and (min-width:375px) and (max-width: 767.98px){
+    .nav-header{
+        margin-top: 2rem;
+        margin-left: 1.5rem;
+    }
+
+    .item-nav{
+        padding: 0 .5rem;
+    }
+
+    .imagem-nav{
+        display:none;
+    }
+
+    .imagem-banner{
+        width: 90%;
+        margin-left:1.2rem;
+    }
+
+    .titulo-main{
+        font-size:1rem;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    .subtitulo-main{
+        padding:1rem;
+    }
+
+    .imagem-main{
+        width:80%;
+        margin-left:1.3rem;
+        border-radius:2rem;
+    }
+
+    .texto-main{
+        font-size:12px;
+        margin-top:1rem;
+        margin:0;
+    }
+
+    .item-nav:active{
+        color:#b87e14;
+    }
+
+    .subtitulo-main{
+        margin-top:1rem;
+    }
+}
